@@ -1,0 +1,29 @@
+{
+  "identifier": "Rentalog",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "rentalog_pro",
+      "localizations": [
+        {
+          "description": "Late-return alerts and rental income totals",
+          "displayName": "Rentalog Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.rentalog.pro",
+      "referenceName": "Rentalog Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
